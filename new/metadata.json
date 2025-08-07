@@ -1,0 +1,8 @@
+{
+  "name": "Copy of System 0.2",
+  "description": "A Solo Leveling inspired fitness and task management application.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "prompt": ""
+}
